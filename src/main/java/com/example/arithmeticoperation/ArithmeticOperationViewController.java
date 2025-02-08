@@ -30,7 +30,7 @@ public class ArithmeticOperationViewController
 
         int sum = xVal + yVal;
         String sumStr = Integer.toString(sum);
-//        resultLabel.setText("X(" + xStr + ") + Y (" +xStr+ ") = " + sumStr);
+//        resultLabel.setText("X(" + xStr + ") + Y (" +xStr+ ") = " + sumStr)hello;
         resultLabel.setText("X + Y = "+sumStr);
     }
 
